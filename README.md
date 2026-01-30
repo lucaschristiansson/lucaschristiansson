@@ -1,12 +1,12 @@
-# Lucas Christiansson - @madebylucke 
+# Lucas Christiansson
 
 **Developer | Designer | Computer Engineering Student @ Chalmers**  
 Passionate about building apps, crafting experiences, and pushing creative boundaries.  
 
 ## 🛠 What I Do  
-- **📱 Mobile Development** – Building React Native apps
-- **🎨 UI/UX Design** – Creating user-centered designs and prototypes in Figma 
-- **📹 Video & Motion Design** – Editing and crafting visuals that tell a story
+- **Mobile Development** – Building React Native apps
+- **UI/UX Design** – Creating user-centered designs and prototypes in Figma 
+- **Video & Motion Design** – Editing and crafting visuals that tell a story
 
 ## 🔧 Tech Stack  
 - **Frontend:** React Native, TypeScript
