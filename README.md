@@ -1,19 +1,39 @@
 # Lucas Christiansson
+**Computer Engineering Student @ Chalmers University**
 
-**Developer | Designer | Computer Engineering Student @ Chalmers**  
-Passionate about building apps, crafting experiences, and pushing creative boundaries.  
+I am a software engineer driven by **performance**, **scalability**, and **systems architecture**.
 
-## 🛠 What I Do  
-- **Mobile Development** – Building React Native apps
-- **UI/UX Design** – Creating user-centered designs and prototypes in Figma 
-- **Video & Motion Design** – Editing and crafting visuals that tell a story
+While I have a strong foundation in low-level languages (C/C++), my passion lies in applying that "close-to-the-metal" understanding to build **robust, high-performance backend systems**. I enjoy solving problems related to concurrency, latency, and distributed data.
 
-## 🔧 Tech Stack  
-- **Frontend:** React Native, TypeScript
-- **Backend:** Spring (Java)
-- **Design:** Figma, Inkscape
+- 🔭 I’m currently developing a **multi-threaded Chat System** (Java/Sockets) focused on message reliability.
+- 🎧 I have experience with **real-time audio processing** and memory management.
+- ⚡ Looking for a **Summer 2026 Internship**.
 
-## Featured Projects
+[LinkedIn](https://linkedin.com/in/lucaschristiansson) • [Email](mailto:lucasch@chalmers.se)
 
-### [**Myogi**](https://github.com/madebylucke/myogi)
-An open-source, community-driven fitness app developed in React Native. Focused on delivering a high-quality user experience through collaborative development and self-hosting capabilities. Features include workout tracking, fitness analysis, and personalized routines to help users achieve their fitness goals.
+
+---
+
+## Selected Projects
+
+### **[Chat Application](https://github.com/lucaschristiansson/chat_application)**
+*A multi-threaded client-server architecture.*
+* Engineered a custom socket protocol to handle concurrent messaging.
+* Utilized **JavaFX** for the client and **PostgreSQL** (3NF) for persistent storage.
+* Implemented Docker containerization for reproducible deployment environments.
+
+### **[Real-Time Music Player](https://github.com/lucaschristiansson/music_player)**
+*Embedded C System with hard timing constraints.*
+* Developed a concurrent audio processing system using **C**.
+* Implemented **CAN Bus** communication and interrupt-driven I/O to manage audio buffers in real-time.
+* Focused on memory safety and efficient resource allocation.
+
+### **[Myogi](https://github.com/lucaschristiansson/myogi)**
+*Offline-first Mobile Application.*
+* Building a workout tracker using **React Native**.
+* Focusing on local data persistence patterns to ensure functionality in zero-connectivity environments.
+
+---
+
+## Current Focus
+I am currently deep-diving into **distributed systems** and looking for collaboration opportunities in **Java** or **Embedded C** projects.
