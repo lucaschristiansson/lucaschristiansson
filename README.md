@@ -18,7 +18,6 @@ While I have a strong foundation in low-level languages (C/C++), my passion lies
 
 ### **[Chat Application](https://github.com/lucaschristiansson/chat_application)**
 *A multi-threaded client-server architecture.*
-* Engineered a custom socket protocol to handle concurrent messaging.
 * Utilized **JavaFX** for the client and **PostgreSQL** (3NF) for persistent storage.
 * Implemented Docker containerization for reproducible deployment environments.
 
