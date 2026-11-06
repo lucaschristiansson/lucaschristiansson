@@ -1,7 +1,7 @@
 # Lucas Christiansson
 **Computer Engineering Student @ Chalmers University**
 
-Currently on an exchange semester at EPFL. Interested in a bachelor thesis project and/or internship.
+Currently on an exchange semester at EPFL.
 
 [LinkedIn](https://linkedin.com/in/lucaschristiansson) • [Email](mailto:lucas.christiansson@proton.me)
 
